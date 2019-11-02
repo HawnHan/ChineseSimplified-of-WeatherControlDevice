@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BCS_WeatherMachine.label>地球化上行器</BCS_WeatherMachine.label>
+  <BCS_WeatherMachine.description>通过使用复杂算法，该设备有几率骇入太空中被遗弃的地球化卫星，通过卫星改变仪器所在地的天气。</BCS_WeatherMachine.description>
+  <BCS_WeatherMachine.comps.3.useLabel>晴</BCS_WeatherMachine.comps.3.useLabel>
+  <BCS_WeatherMachine.comps.4.useLabel>雨</BCS_WeatherMachine.comps.4.useLabel>
+  <BCS_WeatherMachine.comps.5.useLabel>暴风雨</BCS_WeatherMachine.comps.5.useLabel>
+  <BCS_WeatherMachine.comps.6.useLabel>旱天雷</BCS_WeatherMachine.comps.6.useLabel>
+  <BCS_WeatherMachine.comps.7.useLabel>雾雨</BCS_WeatherMachine.comps.7.useLabel>
+  <BCS_WeatherMachine.comps.8.useLabel>雾</BCS_WeatherMachine.comps.8.useLabel>
+  <BCS_WeatherMachine.comps.9.useLabel>暴雪</BCS_WeatherMachine.comps.9.useLabel>
+  <BCS_WeatherMachine.comps.10.useLabel>雪</BCS_WeatherMachine.comps.10.useLabel>
+  <BCS_WeatherMachine_Blueprint.label>地球化上行器(蓝图)</BCS_WeatherMachine_Blueprint.label>
+  <BCS_WeatherMachine_Frame.label>地球化上行器(建造中)</BCS_WeatherMachine_Frame.label>
+  <BCS_WeatherMachine_Frame.description>通过使用复杂算法，该设备有几率骇入太空中被遗弃的地球化卫星，通过卫星改变仪器所在地的天气。</BCS_WeatherMachine_Frame.description>
+</LanguageData>

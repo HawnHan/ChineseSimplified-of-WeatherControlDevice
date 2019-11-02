@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BCS_JobDefsRain.reportString>做法。</BCS_JobDefsRain.reportString>
+  <BCS_JobDefsClear.reportString>做法。</BCS_JobDefsClear.reportString>
+  <BCS_JobDefsFog.reportString>做法。</BCS_JobDefsFog.reportString>
+  <BCS_JobDefsDryThunderstorm.reportString>做法。</BCS_JobDefsDryThunderstorm.reportString>
+  <BCS_JobDefsRainyThunderstorm.reportString>做法。</BCS_JobDefsRainyThunderstorm.reportString>
+  <BCS_JobDefsFoggyRain.reportString>做法。</BCS_JobDefsFoggyRain.reportString>
+  <BCS_JobDefsSnowHard.reportString>做法。</BCS_JobDefsSnowHard.reportString>
+  <BCS_JobDefsSnowGentle.reportString>做法。</BCS_JobDefsSnowGentle.reportString>
+
+
+</LanguageData>
